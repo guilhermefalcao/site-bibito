@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Welcome to the bibitin's website</h1>
+        <h1 className={styles.title}>Welcome to the bibitins website</h1>
         <p className={styles.description}>Bibitin é o melhor</p>
       </main>
 
